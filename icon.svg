@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0c0f14"/>
+  <rect x="210" y="120" width="92" height="200" rx="20" fill="rgba(255,255,255,0.08)" stroke="#46566b" stroke-width="8"/>
+  <rect x="210" y="120" width="92" height="120" fill="#4ea1ff" opacity="0.85"/>
+  <rect x="300" y="104" width="40" height="36" rx="8" fill="#ff7a1a"/>
+  <rect x="150" y="200" width="60" height="20" rx="6" fill="#eef2f7"/>
+  <rect x="120" y="196" width="34" height="28" rx="6" fill="#232b36"/>
+  <text x="256" y="400" fill="#e7edf5" font-size="120" text-anchor="middle" font-family="sans-serif" font-weight="700">💉</text>
+</svg>
